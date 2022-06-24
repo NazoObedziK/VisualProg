@@ -1,0 +1,32 @@
+D:\Навчання\3 курс\Лабораторні роботи\Візуальне програмування\Lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\Навчання\3 курс\Лабораторні роботи\Візуальне програмування\Lab2\Lab2\bin\Debug\Lab2.exe
+D:\Навчання\3 курс\Лабораторні роботи\Візуальне програмування\Lab2\Lab2\bin\Debug\Lab2.pdb
+D:\Навчання\3 курс\Лабораторні роботи\Візуальне програмування\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+D:\Навчання\3 курс\Лабораторні роботи\Візуальне програмування\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+D:\Навчання\3 курс\Лабораторні роботи\Візуальне програмування\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+D:\Навчання\3 курс\Лабораторні роботи\Візуальне програмування\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+D:\Навчання\3 курс\Лабораторні роботи\Візуальне програмування\Lab2\Lab2\obj\Debug\Lab2.exe
+D:\Навчання\3 курс\Лабораторні роботи\Візуальне програмування\Lab2\Lab2\obj\Debug\Lab2.pdb
+F:\Labky_3_year\VISUAL_YAVORSKA\Lab2\Lab2\bin\Debug\Lab2.exe.config
+F:\Labky_3_year\VISUAL_YAVORSKA\Lab2\Lab2\bin\Debug\Lab2.exe
+F:\Labky_3_year\VISUAL_YAVORSKA\Lab2\Lab2\bin\Debug\Lab2.pdb
+F:\Labky_3_year\VISUAL_YAVORSKA\Lab2\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+F:\Labky_3_year\VISUAL_YAVORSKA\Lab2\Lab2\obj\Debug\Lab2.Form1.resources
+F:\Labky_3_year\VISUAL_YAVORSKA\Lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+F:\Labky_3_year\VISUAL_YAVORSKA\Lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+F:\Labky_3_year\VISUAL_YAVORSKA\Lab2\Lab2\obj\Debug\Lab2.exe
+F:\Labky_3_year\VISUAL_YAVORSKA\Lab2\Lab2\obj\Debug\Lab2.pdb
+D:\навчання\6 семестр\Візуальне\lab2\Lab2\bin\Debug\Lab2.exe.config
+D:\навчання\6 семестр\Візуальне\lab2\Lab2\obj\Debug\Lab2.exe
+D:\навчання\6 семестр\Візуальне\lab2\Lab2\obj\Debug\Lab2.pdb
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\bin\Debug\Lab2.exe
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\bin\Debug\Lab2.pdb
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\obj\Debug\Lab2.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\obj\Debug\Lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\obj\Debug\Lab2.Form1.resources
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\obj\Debug\Lab2.Properties.Resources.resources
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\obj\Debug\Lab2.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\obj\Debug\Lab2.exe
+C:\Users\nazar\Desktop\Нова папка\lab2\Lab2\obj\Debug\Lab2.pdb
