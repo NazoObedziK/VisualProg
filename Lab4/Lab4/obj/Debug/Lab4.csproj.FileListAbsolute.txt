@@ -1,0 +1,11 @@
+C:\Users\nazar\Desktop\lab4\Lab4\bin\Debug\lab1_yavorska_version_2_reload.exe.config
+C:\Users\nazar\Desktop\lab4\Lab4\bin\Debug\lab1_yavorska_version_2_reload.exe
+C:\Users\nazar\Desktop\lab4\Lab4\bin\Debug\lab1_yavorska_version_2_reload.pdb
+C:\Users\nazar\Desktop\lab4\Lab4\obj\Debug\Lab4.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\lab4\Lab4\obj\Debug\Lab4.csproj.SuggestedBindingRedirects.cache
+C:\Users\nazar\Desktop\lab4\Lab4\obj\Debug\lab1_yavorska_version_2_reload.Properties.Resources.resources
+C:\Users\nazar\Desktop\lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\lab4\Lab4\obj\Debug\lab1_yavorska_version_2_reload.exe
+C:\Users\nazar\Desktop\lab4\Lab4\obj\Debug\lab1_yavorska_version_2_reload.pdb
+C:\Users\nazar\Desktop\lab4\Lab4\obj\Debug\Lab4.Form1.resources

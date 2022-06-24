@@ -1,0 +1,39 @@
+C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.exe.config
+C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.exe
+C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.pdb
+C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csprojAssemblyReference.cache
+C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.Form1.resources
+C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.Properties.Resources.resources
+C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.GenerateResource.cache
+C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.exe
+C:\Users\Olena\source\repos\lab1_yavorska_version_2_reload\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.pdb
+C:\Users\Olena\source\repos\lab5_yavorska_pm32\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.exe.config
+C:\Users\Olena\source\repos\lab5_yavorska_pm32\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.exe
+C:\Users\Olena\source\repos\lab5_yavorska_pm32\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.pdb
+C:\Users\Olena\source\repos\lab5_yavorska_pm32\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csprojAssemblyReference.cache
+C:\Users\Olena\source\repos\lab5_yavorska_pm32\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.Form1.resources
+C:\Users\Olena\source\repos\lab5_yavorska_pm32\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.Properties.Resources.resources
+C:\Users\Olena\source\repos\lab5_yavorska_pm32\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.GenerateResource.cache
+C:\Users\Olena\source\repos\lab5_yavorska_pm32\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.exe
+C:\Users\Olena\source\repos\lab5_yavorska_pm32\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.pdb
+D:\навчання\6 семестр\Візуальне\lab4\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.exe.config
+D:\навчання\6 семестр\Візуальне\lab4\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.exe
+D:\навчання\6 семестр\Візуальне\lab4\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.pdb
+D:\навчання\6 семестр\Візуальне\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csprojAssemblyReference.cache
+D:\навчання\6 семестр\Візуальне\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.Form1.resources
+D:\навчання\6 семестр\Візуальне\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.Properties.Resources.resources
+D:\навчання\6 семестр\Візуальне\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.GenerateResource.cache
+D:\навчання\6 семестр\Візуальне\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.CoreCompileInputs.cache
+D:\навчання\6 семестр\Візуальне\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.exe
+D:\навчання\6 семестр\Візуальне\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.pdb
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.exe.config
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.exe
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\bin\Debug\lab1_yavorska_version_2_reload.pdb
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.SuggestedBindingRedirects.cache
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.Form1.resources
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.Properties.Resources.resources
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.exe
+C:\Users\nazar\Desktop\Нова папка\lab4\lab1_yavorska_version_2_reload\obj\Debug\lab1_yavorska_version_2_reload.pdb
