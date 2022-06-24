@@ -1,0 +1,21 @@
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\bin\Debug\Lab3_ SFD_OFD.exe.config
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\bin\Debug\Lab3_ SFD_OFD.exe
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\bin\Debug\Lab3_ SFD_OFD.pdb
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.csproj.AssemblyReference.cache
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.csproj.SuggestedBindingRedirects.cache
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3__SFD_OFD.Form1.resources
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3__SFD_OFD.Properties.Resources.resources
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.csproj.GenerateResource.cache
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.csproj.CoreCompileInputs.cache
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.exe
+C:\Users\nataliia.divchur\Desktop\6_semester\візуальне програмування\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.pdb
+D:\навчання\6 семестр\Візуальне\Lab3_ SFD_OFD\Lab3_ SFD_OFD\bin\Debug\Lab3_ SFD_OFD.exe.config
+D:\навчання\6 семестр\Візуальне\Lab3_ SFD_OFD\Lab3_ SFD_OFD\bin\Debug\Lab3_ SFD_OFD.exe
+D:\навчання\6 семестр\Візуальне\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.csprojAssemblyReference.cache
+D:\навчання\6 семестр\Візуальне\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3__SFD_OFD.Form1.resources
+D:\навчання\6 семестр\Візуальне\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3__SFD_OFD.Properties.Resources.resources
+D:\навчання\6 семестр\Візуальне\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.csproj.GenerateResource.cache
+D:\навчання\6 семестр\Візуальне\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.csproj.CoreCompileInputs.cache
+D:\навчання\6 семестр\Візуальне\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.exe
+D:\навчання\6 семестр\Візуальне\Lab3_ SFD_OFD\Lab3_ SFD_OFD\obj\Debug\Lab3_ SFD_OFD.pdb
+D:\навчання\6 семестр\Візуальне\Lab3_ SFD_OFD\Lab3_ SFD_OFD\bin\Debug\Lab3_ SFD_OFD.pdb

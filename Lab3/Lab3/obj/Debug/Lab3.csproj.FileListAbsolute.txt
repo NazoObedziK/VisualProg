@@ -1,0 +1,11 @@
+C:\Users\nazar\Desktop\Lab3_\Lab3\bin\Debug\Lab3_ SFD_OFD.exe.config
+C:\Users\nazar\Desktop\Lab3_\Lab3\bin\Debug\Lab3_ SFD_OFD.exe
+C:\Users\nazar\Desktop\Lab3_\Lab3\bin\Debug\Lab3_ SFD_OFD.pdb
+C:\Users\nazar\Desktop\Lab3_\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\nazar\Desktop\Lab3_\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\nazar\Desktop\Lab3_\Lab3\obj\Debug\Lab3__SFD_OFD.Form1.resources
+C:\Users\nazar\Desktop\Lab3_\Lab3\obj\Debug\Lab3__SFD_OFD.Properties.Resources.resources
+C:\Users\nazar\Desktop\Lab3_\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Users\nazar\Desktop\Lab3_\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\nazar\Desktop\Lab3_\Lab3\obj\Debug\Lab3_ SFD_OFD.exe
+C:\Users\nazar\Desktop\Lab3_\Lab3\obj\Debug\Lab3_ SFD_OFD.pdb
